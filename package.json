@@ -1,0 +1,24 @@
+{
+  "name": "module-madness-start",
+  "version": "1.0.0",
+  "description": "In this challenge, fork the provided GitHub repo, clone it and run `npm install`. After doing that, you will create three modules as specified below, update the *server.js* file to use these modules!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrimeAcademy/module-madness-start.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/PrimeAcademy/module-madness-start/issues"
+  },
+  "homepage": "https://github.com/PrimeAcademy/module-madness-start#readme"
+}
